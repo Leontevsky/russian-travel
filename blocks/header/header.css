@@ -1,0 +1,10 @@
+.header {
+    background-color: #2A2C2F;
+    border: 1px red solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-height: 52px;
+    max-width: 1184px;
+    margin: 0 auto;
+}

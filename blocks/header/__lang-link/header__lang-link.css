@@ -7,6 +7,6 @@
 }
 
 .header__lang-link:last-of-type {
-    margin-right: 48px;
+    margin-right: 0;
     text-decoration: none;
 }

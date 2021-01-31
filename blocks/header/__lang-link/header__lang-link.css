@@ -4,6 +4,7 @@
     line-height: 28px;
     text-decoration: underline;
     margin-right: 18px;
+    font-family: 'Inter';
 }
 
 .header__lang-link:last-of-type {

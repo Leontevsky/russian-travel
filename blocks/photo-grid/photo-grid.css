@@ -7,5 +7,6 @@
     grid-template-rows: repeat(3, 1fr);
     gap: 16px;
     margin: 0 auto;
+    padding: 92px 0 92px 0;
     
 }

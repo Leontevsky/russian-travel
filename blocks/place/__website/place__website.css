@@ -1,3 +1,8 @@
 .place__website {
-   min-width: 456px; 
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
+    min-width: 456px;
+    margin: 0;
 }

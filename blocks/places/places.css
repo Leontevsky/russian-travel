@@ -1,8 +1,5 @@
 .places {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+    
     max-width: 984px;
     margin: auto; 
 }

@@ -1,7 +1,7 @@
 .place__website {
     display: flex;
     justify-content: flex-end;
-    align-items: flex-start;
+    /* align-items: flex-start; */
     flex-direction: column;
     min-width: 456px;
     margin: 0;

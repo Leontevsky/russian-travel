@@ -2,12 +2,12 @@
   max-width: 984px;
   margin-bottom: 72px;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   /* align-items: normal; */
   flex-wrap: wrap;
 }
 
 .place:last-child {
-  margin-bottom: 0;
+  margin-bottom: 92px;
 }
 

@@ -1,12 +1,13 @@
 
 .place__link {
-  align-self: flex-start;
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 22px;
+  text-decoration-line: underline;
   color: #FFFFFF;
-  font-family: 'Inter', Arial, sans-serif;
+
 }
 
 .place__link:hover {

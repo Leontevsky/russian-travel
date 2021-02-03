@@ -1,4 +1,4 @@
-.cover__item {
+/* .cover__item {
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -11,4 +11,17 @@
 
 .cover__item:hover .cover__overlay {
     background-color: #2a2c2f8a;
-}
+} */
+
+.cover__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }

@@ -3,3 +3,10 @@
     height: 740px;
     margin: 0 auto;
 }
+
+@media (max-width: 1024px) {
+    .cover {
+        min-height: 640px;
+        width: 100%;
+    }
+}

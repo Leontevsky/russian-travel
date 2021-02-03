@@ -1,11 +1,12 @@
 .intro {
-    margin-left:auto;
-    margin-top: auto;
+    max-width: 984px;
+    padding-top: 92px;
+    margin: auto;
 }
 
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
     
     .intro {
         width: calc(100% - 48px * 2);
     }
-}
+} */

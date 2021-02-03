@@ -1,11 +1,11 @@
-
-.place {
-display: flex;
-flex-wrap: wrap;
-/* align-items: center; */
-justify-content: center;
-margin-bottom: 80px;
-max-width: 984px;
+/*.place {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    /* justify-content: center; 
+    margin-bottom: 80px;
+    /* max-width: 984px; 
+    max-width: 100%;
 }
 
 .place:last-child {
@@ -17,3 +17,12 @@ max-width: 984px;
       width: calc(100% - 48px * 2);
     }
   }
+*/
+
+.place {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 984px;
+    margin-bottom: 80px;
+}

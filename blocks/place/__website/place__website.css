@@ -1,9 +1,19 @@
-.place__website {
+/*.place__website {
     display: flex;
     justify-content: flex-end;
-    /* align-items: flex-start; */
+    align-items: flex-start;
     flex-direction: column;
-    min-width: 456px;
+    /* min-width: 456px; 
+    flex-basis: 100%;
     margin: 0;
 }
 
+*/
+
+.place__website {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 484px;
+    margin: 0;
+}

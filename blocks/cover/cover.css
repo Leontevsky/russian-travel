@@ -13,6 +13,7 @@
 
 .cover {
     width: calc(100% - 48px * 2);
+    max-width: 1184px;
     min-height: 740px;
     margin: 0 auto;
     background: url("../../images/cover-trains.jpg") no-repeat;

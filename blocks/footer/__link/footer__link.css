@@ -1,9 +1,29 @@
 .footer__link {
+    max-width: 94px;
+    margin-right: 18px;
+    text-decoration: none;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
-    margin-right: 18px;
-}
+  }
+  
+  .footer__link:hover {
+    opacity: .8;
+  }
+  
+  @media (max-width: 900px) { 
+    .footer__link{
+      font-size: 16px;
+      line-height: 27px;
+    } 
+  }
+  
+  @media (max-width: 375px) { 
+    .footer__link{
+      font-size: 24px;
+      line-height: 41px;
+    } 
+  }

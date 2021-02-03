@@ -6,28 +6,21 @@
 }
 
 @media (max-width: 1024px) { 
-  .place__paragraphs {
+  .place__paragraph-all {
     max-width: 456px;
-	  margin: 32px 24px 0 28px;
+	  margin: 48px 28px 0 32px;
   } 
 }
 
-/*@media (max-width: 768px) { 
-  .place__paragraphs {
-    max-width: 352px;
-	  margin: 32px 24px 0 28px;
-  } 
-}*/
-
 @media (min-width: 768px) and (max-width: 1023px) { 
-  .place__paragraphs {
+  .place__paragraph-all {
     max-width: 340px;
 	  margin: 32px 24px 0 24px;
   } 
 }
 
 @media (max-width: 375px) { 
-  .place__paragraphs {
+  .place__paragraph-all {
     max-width: 352px;
 	  margin: 32px 16px 0 16px;
   } 

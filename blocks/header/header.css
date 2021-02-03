@@ -10,19 +10,19 @@
     padding-top: 28px;
 }
 
-@media (max-width: 1024px) { 
+@media screen and (max-width: 1024px) { 
     .header {
-      padding: 30px 48px 48px 48px;
+      width: calc(100% - 24px * 2);
     } 
   }
   
-  @media (max-width: 768px) { 
+  @media screen and (max-width: 768px) { 
     .header {
       padding: 30px 24px 48px 24px;
     } 
   }
   
-  @media (max-width: 375px) { 
+  @media screen and (max-width: 375px) { 
     .header {
       padding: 30px 16px 48px 16px;
     } 

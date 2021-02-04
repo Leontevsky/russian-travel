@@ -1,22 +1,9 @@
-/* .cover {
-    max-width: 1184px;
-    height: 740px;
-    margin: 0 auto;
-}
-
-@media (max-width: 1024px) {
-    .cover {
-        min-height: 640px;
-        width: 100%;
-    }
-} */
-
 .cover {
     width: calc(100% - 48px * 2);
     max-width: 1184px;
     min-height: 740px;
     margin: 0 auto;
-    background: url("../../images/cover-trains.jpg") no-repeat;
+    background: url("../../images/cover-trains.jpg");
     background-size: cover;
     position: relative;
   }

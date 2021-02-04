@@ -1,5 +1,4 @@
 .footer__copyright {
-
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -10,7 +9,6 @@
     max-width: 100%;
     padding-top: 5px;
     margin: 0;
-
   }
   
   @media screen and (max-width: 700px) {

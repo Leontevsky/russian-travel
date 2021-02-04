@@ -18,6 +18,14 @@
         align-self: flex-start;
     }
   }
+
+  @media screen and (max-width: 320px) {
+    .footer__copyright {
+        padding-top: 16px;
+        padding-bottom: 32px;
+
+    }
+  }
   
   
 

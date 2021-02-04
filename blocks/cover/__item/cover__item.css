@@ -4,11 +4,37 @@
     align-items: center;
     flex-direction: column;
     text-decoration: none;
-    position: absolute;
+    /* position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
-    left: 0;
+    left: 0; */
+    padding-top: 245px;
   }
+
+  @media screen and (max-width: 1024px) {
+    .cover__item {
+      padding-top: 195px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .cover__item {
+      padding-top: 115px;
+    }
+  }
+
+  @media screen and (max-width: 568px) {
+    .cover__item {
+      padding-top: 33px;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .cover__item {
+      padding-top: 33px;
+    }
+  }
+
 
  

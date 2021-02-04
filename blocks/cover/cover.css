@@ -17,7 +17,7 @@
     left: 0;
     background-color: #2a2c2f;
     opacity: 0.3;
-    transition: opacity;
+    transition: opacity 0.4s;
   }
   
   .cover:hover::before {
@@ -34,7 +34,6 @@
   @media (max-width: 768px) {
     .cover {
       min-height: 480px;
-      width: 100%;
     }
   }
   

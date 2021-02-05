@@ -5,6 +5,7 @@
     margin: 0 auto;
     background: url("../../images/cover-trains.jpg");
     background-size: cover;
+    background-position: center;
     position: relative;
   }
   
